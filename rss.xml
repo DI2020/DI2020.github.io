@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>汤小姐のblog</title>
-  <icon>https://gitee.com/yindi-tj/tangxiaojie520.github.io/icon.png</icon>
+  
   <subtitle>想记录下我们美好又快乐的时光！</subtitle>
-  <link href="https://gitee.com/yindi-tj/tangxiaojie520.github.io/atom.xml" rel="self"/>
+  <link href="https://gitee.com/yindi-tj/tangxiaojie520.github.io/rss.xml" rel="self"/>
   
   <link href="https://gitee.com/yindi-tj/tangxiaojie520.github.io/"/>
   <updated>2020-08-20T08:31:56.109Z</updated>
@@ -28,10 +28,7 @@
     
       
       
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
-        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
       
     
     
@@ -51,10 +48,7 @@
     
       
       
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
-        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
       
     
     
